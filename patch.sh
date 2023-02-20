@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-echo "fixed"
+echo "not fixed"
 
 exit 0
 
